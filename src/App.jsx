@@ -1,11 +1,12 @@
-import { useState } from 'react'
+
+import SectionPicture from "./components/importPicture.jsx"
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      
+      <SectionPicture />
+
     </>
   )
 }
