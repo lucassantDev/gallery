@@ -1,5 +1,5 @@
-import HeaderGallery from "./components/headerGallery.jsx"
-import SectionPicture from "./components/importPicture.jsx"
+import HeaderGallery from "./components/Header/headerGallery.jsx"
+import SectionPicture from "./components/FirstSection/importPicture.jsx"
 
 function App() {
 
