@@ -12,7 +12,7 @@ export default function togglePicture() {
                     />
                     <input type="file" className="hidden" />
                     </label>
-                    <p className="font-semibold text-gray-400">Escolha seu arquivo</p>                    
+                    <p className="font-semibold text-gray-400 secondary-font">Escolha seu arquivo</p>                    
             </div>
         </>
     )
