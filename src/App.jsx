@@ -1,13 +1,11 @@
 import HeaderGallery from "./components/Header/headerGallery.jsx"
-import SectionPicture from "./components/FirstSection/importPicture.jsx"
+import "./index.css"
 
 function App() {
 
   return (
     <>
       <HeaderGallery />
-      <SectionPicture />
-  
     </>
   )
 }
